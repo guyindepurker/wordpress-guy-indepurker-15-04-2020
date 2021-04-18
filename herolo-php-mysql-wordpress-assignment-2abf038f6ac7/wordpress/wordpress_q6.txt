@@ -1,0 +1,5 @@
+All actions are executed as soon as the page is loaded.
+
+The function add_action() is used to hook a function to an action.
+
+Actions with lower priorities are executed earlier than those with higher priorities.
